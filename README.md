@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @AnshM90
 - 👀 I’m interested in gaming 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me... instagram-: anshmishra_90
+- 📫 How to reach me... Linkedin-: www.linkedin.com/in/
+ansh-mishra-anm90
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an introvert 
 
