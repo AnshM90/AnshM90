@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AnshM90
-- 👀 I’m interested in gaming 
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m @AnshM90 
+- 🌱 I’m currently learning python machine learning
 - 💞️ I’m looking to collaborate on new projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an introvert 
